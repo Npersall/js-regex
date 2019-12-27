@@ -2,5 +2,12 @@
   "dependencies": {
     "chai": "^4.2.0",
     "mocha": "^6.2.2"
-  }
+  },
+  "name": "regex-engine",
+  "version": "1.0.0",
+  "description": "JS-regex-engine",
+  "main": "regex.js",
+  "repository": "https://github.com/Npersall/js-regex.git",
+  "author": "Nathan Persall <npersall@gmail.com>",
+  "license": "MIT"
 }
